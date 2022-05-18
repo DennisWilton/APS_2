@@ -6,6 +6,8 @@ import Amendoim from "./classes/Acompanhamentos/Amendoim";
 import Acompanhamento from "./classes/Acompanhamentos/Acompanhamento";
 import Guardanapo from "./classes/Adicionais/Guardanapo";
 
+//TESTE EDICAO GIT
+
 // const comanda = [
 //   { bebida: Caipirinha, acompanhamentos: [Amendoim], adicionais: [] },
 //   { bebida: Caipirinha, acompanhamentos: [], adicionais: [Canudo] },
